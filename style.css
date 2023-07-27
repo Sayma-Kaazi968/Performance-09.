@@ -1,0 +1,24 @@
+  
+h1{
+    text-align: center;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: brown;
+  
+}
+p{
+    color: darkred;
+}
+.class01 #image{
+    background-image: url(image/hobbitlogo.jpg);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-attachment: fixed;
+}
+.class01 p{
+    color: orangered;
+    
+}
+.class01 #pfirst{
+ background-color: lightsteelblue;
+}
